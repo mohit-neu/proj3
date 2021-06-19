@@ -27,4 +27,6 @@ jobs:
       - name: Deploy
         run: |
           git pull
+          git config --global user.name "Mohit Agarwal"
+          git config --global user.email "Mohit.Agarwal@neudesic.com"
           mkdocs gh-deploy
