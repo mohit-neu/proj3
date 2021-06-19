@@ -1,0 +1,5 @@
+site_name: Marshmallow Generator
+nav:
+    - Home: 'index.md'
+    - About: 'about.md'
+    - License: 'license.md'
